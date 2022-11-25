@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/Fruit-market)
   ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/Fruit-market)
   ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Fruit-market?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
   <br>
 
